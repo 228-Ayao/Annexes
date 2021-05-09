@@ -1,4 +1,4 @@
-## Historiques des modifications réalisées sur OpenRefine
+## Historique des modifications réalisées sur OpenRefine
 ```json
 
 [
